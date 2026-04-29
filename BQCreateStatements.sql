@@ -1,7 +1,6 @@
 -- BigQuery DDL for Omni-Commerce ODS (50 tables)
 -- Project: `datamigrationproject-494118`
 -- Dataset: `ods`
--- Generated: 2025-10-17T15:39:45.555453Z
 -- Description: Create dataset and all 50 ODS tables with partitions and clustering.
 
 CREATE SCHEMA IF NOT EXISTS `datamigrationproject-494118.ods`

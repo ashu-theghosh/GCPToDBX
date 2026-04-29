@@ -1,6 +1,5 @@
 -- BigQuery INSERTS for Omni-Commerce ODS synthetic data
 -- Project: `datamigrationproject-494118`  Dataset: `ods`
--- Generated: 2025-10-17T15:51:59.337491Z
 -- Each table gets >= the requested number of rows.
 -- Order ensures FK parents are populated before children.
 
